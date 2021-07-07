@@ -1,0 +1,4 @@
+p Здраствуйте, #{first_name}!
+p Чтобы установить новый пароль перейдите по ссылке:
+p
+  a(href=process.env.FRONTEND_URL + '/reset_password?token=' + token) #{process.env.FRONTEND_URL}/reset_password?token=#{token}

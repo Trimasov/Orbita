@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "lib": [
+      "es2019",
+      "DOM"
+    ],
+    "allowSyntheticDefaultImports": true,
+    "noEmit": false,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "noImplicitAny": false,
+    //"strictNullChecks": true,
+    "esModuleInterop": true,
+    //"declaration": true,
+    //"declarationDir": "./lib",
+    "outDir": "dist/src",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "checkJs": false,
+    "paths": {
+      "*": [
+        "node_modules/*"
+      ]
+    }
+  },
+  "exclude": [
+    "./db/config"
+  ]
+}

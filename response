@@ -1,0 +1,16 @@
+GET / HTTP/1.1
+Host: localhost:3001
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="87", " Not;A Brand";v="99", "Chromium";v="87"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,ru;q=0.8,nl;q=0.7
+Cookie: remember_user_token=W1s2XSwiJDJhJDExJDRvVUxqRkJwYmYvaVl2bmN5UWVQQi4iLCIxNjEwNjM5MjUyLjYwNjk4NDkiXQ%3D%3D--d6cf1a7ecad1d5f312ba266bedc1304dd134c487; _development_coolershare_session=RTVaaDhxeVNqcWZWdmNZSG1jQ2RRSmFZWDBiZjVyL3h1UjBOdmxYeDJYMldtZjZvR0MyMlY0RS9DZ3JGOVZlaEZwYXpMRk1MTEw4ekYyN0o2VjFnY0RBNlBzcU5xSXhCc0xyczd0RXR0VjNGYU1udStxTjFkdERlTmRiU0l1WDZzTS9kSzNLVnJsanZxMnNtbUI1QlB1UWJUZHNpcUs2d0ZrRFNHeTZHQzRyTGtxVHh3dWdMUHMvNFBaMXRkTnpncGxqenFqWlhCYTAzVXVhMC9PYnpvYmRTNWZKWDBjd0VnT3FDNzBmZ3l2NmM3Yzh3cG43VTUvbkc4WURkVXdPMXpBNWlJVUF2SXJZeElVVmV0K2Z3S0RhOFJLZjBMZUxKcXFFMlNvWWVFbFRHWVdPUTJ4RmlEQjBScGtlalJOTzgtLWpRMWhpR3ZzOWgwRWtCLzJKRStZRVE9PQ%3D%3D--a111bd97449c65702ff7e532e3d4ae8fda1af417; token=Bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJleGFtcGxlMUBleGFtcGxlLmNvbSIsImNyZWF0ZWRBdCI6IjIwMjAtMDYtMTQgMTg6MjM6NDUiLCJpYXQiOjE2MTEzMTA3MzEsImV4cCI6MTY0Mjg2NzY1N30.Stad3mhyDCQO6wcC7-X2C9-6zKdIYt_vwQdUSa5RKHM; connect.sid=s%3ABS_BVwGcw8s74Lfk04Egh4cOzBjPvhx9.gbF0yS2pd9c0TPwagIgqJCwzWE70QXCFmz75V5nLS%2Fs; redirect_url=%2F; adminbro=s%3ASmRMqLwMK_rHbkbGCH6RngVyDe4RNjUv.XW492wuMfYy6rpAs18f5nBKXKa05EDQo3xxnqnsudWk
+
